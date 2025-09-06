@@ -34,12 +34,11 @@ Key objectives:
 
 ## Project Structure
 
-- Data/: Contains the dataset (not included here; derived from internal Home Credit records).
+Docs/: Contains the full case study report PDF (case study report.pdf).
 
-- Docs/: Includes the full case study report PDF ("case study report.pdf").
+Notebooks/: Includes exploratory Jupyter notebooks used for loan default risk segmentation and driver analysis. These notebooks implement Chi-square tests and logistic regression across 307,511 applications.
 
-- Visuals/: Logistic regression results (Figures A1-A8 in the appendix).
-
+images/: Features an animated GIF that visually summarizes the loan default risk analysis.
 
 
 ## Analytical Workflow
