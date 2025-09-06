@@ -2,7 +2,7 @@
 Analytical case study using Chi-square tests and logistic regression to identify key drivers of loan default across 307,511 applications. The project ranks risk factors by impact and proposes tiered policy interventions to reduce defaults by 15–30% while enhancing financial inclusion.
 
 ### 🎬 Animated Workflow Overview
-![Loan Default Risk Analysis GIF](images/credit gif.gif)
+![Loan Default Risk Analysis GIF]('images/credit gif.gif')
 
 
 
