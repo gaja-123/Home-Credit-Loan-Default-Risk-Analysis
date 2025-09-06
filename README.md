@@ -145,6 +145,8 @@ The project is divided into four phases:
 Contributions welcome! Suggest improvements or additional analyses via feedback channels.
 
 
+## Dataset [data](https://www.kaggle.com/competitions/home-credit-default-risk/data)
+
 
 ## License
 
